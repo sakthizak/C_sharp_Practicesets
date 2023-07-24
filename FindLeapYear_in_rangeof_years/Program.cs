@@ -4,6 +4,7 @@
     {
         static void Main(string[] args)
         {
+            int [] newarray =new int[10];
 
         }
     }
