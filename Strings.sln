@@ -17,9 +17,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CheckA_string_palindrome", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PatternPrinting", "PatternPrinting\PatternPrinting.csproj", "{668B5EC7-BDAD-4064-9B92-093DAE21F645}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find_leapYear_or_not", "Find_leapYear_or_not\Find_leapYear_or_not.csproj", "{54F8CB2F-0850-4033-ACC8-A6B6B90754EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Find_leapYear_or_not", "Find_leapYear_or_not\Find_leapYear_or_not.csproj", "{54F8CB2F-0850-4033-ACC8-A6B6B90754EE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindLeapYear_in_rangeof_years", "FindLeapYear_in_rangeof_years\FindLeapYear_in_rangeof_years.csproj", "{E09BAB52-849E-456F-ACAC-E5D4454E54F7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindLeapYear_in_rangeof_years", "FindLeapYear_in_rangeof_years\FindLeapYear_in_rangeof_years.csproj", "{E09BAB52-849E-456F-ACAC-E5D4454E54F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "class", "class\class.csproj", "{46338767-B940-489F-B0D6-4C51B7834850}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathOpps", "MathOpps\MathOpps.csproj", "{23D75645-F212-4D64-B312-B0D535701F71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindtheString_count", "FindtheString_count\FindtheString_count.csproj", "{F8BC691C-21A7-4446-B9A4-2EB1F10987AE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +69,18 @@ Global
 		{E09BAB52-849E-456F-ACAC-E5D4454E54F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E09BAB52-849E-456F-ACAC-E5D4454E54F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E09BAB52-849E-456F-ACAC-E5D4454E54F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46338767-B940-489F-B0D6-4C51B7834850}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46338767-B940-489F-B0D6-4C51B7834850}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46338767-B940-489F-B0D6-4C51B7834850}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46338767-B940-489F-B0D6-4C51B7834850}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23D75645-F212-4D64-B312-B0D535701F71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23D75645-F212-4D64-B312-B0D535701F71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23D75645-F212-4D64-B312-B0D535701F71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23D75645-F212-4D64-B312-B0D535701F71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8BC691C-21A7-4446-B9A4-2EB1F10987AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8BC691C-21A7-4446-B9A4-2EB1F10987AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8BC691C-21A7-4446-B9A4-2EB1F10987AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8BC691C-21A7-4446-B9A4-2EB1F10987AE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
