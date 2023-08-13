@@ -4,7 +4,8 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(0 % 2);
+            Console.WriteLine(Math.Sqrt());
+
         }
     }
 }

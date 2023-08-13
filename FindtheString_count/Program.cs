@@ -26,6 +26,7 @@
                 {
                     Console.WriteLine("nothing to say " + array[i]);
                 }
+
             }
         }
     }
